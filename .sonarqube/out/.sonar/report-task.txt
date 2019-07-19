@@ -1,0 +1,6 @@
+projectKey=alpha
+serverUrl=http://localhost:9002
+serverVersion=7.6.0.21501
+dashboardUrl=http://localhost:9002/dashboard?id=alpha
+ceTaskId=AWwFDOOi_dGC-eOHvSm9
+ceTaskUrl=http://localhost:9002/api/ce/task?id=AWwFDOOi_dGC-eOHvSm9
